@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+
+
+<!-- Mirrored from corefarm.app/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 05 Apr 2022 18:33:22 GMT -->
+<head>
+	<meta content="CoreFarm" property="og:title">
+	<meta content="CoreFarm is mod menu for Growtopia, including autofarmer, botting & more." property="og:description">
+	<meta content="#ffae00" data-react-helmet="true" name="theme-color" />
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=0.8, shrink-to-fit=no">
+	<link rel="icon" href="img/favicon.png" type="image/png">
+	<title>ReinApp</title>
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="vendors/linericon/style.html">
+	<link rel="stylesheet" href="css/font-awesome.min.html">
+	<link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.html">
+	<link rel="stylesheet" href="css/magnific-popup.html">
+	<link rel="stylesheet" href="vendors/nice-select/css/nice-select.html">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+ 
+	<section class="home_banner_area">
+		<div class="banner_inner">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-7">
+						<div class="banner_content">
+							<h3 class="text-uppercase">RA</h3>
+							<h1 class="text-uppercase">Rein App</h1>
+							<h5 class="text-uppercase">Rein App for Windows has been launched!</h5>
+							<div class="d-flex align-items-center">
+								<a class="primary_btn" href="files/CoreFarm_Launcher.exe"><span>Download for Windows</span></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-5">
+						<div class="home_right_img">
+							<img class="" src="img/lb2.png" alt="">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</body>
+
+
+<!-- Mirrored from corefarm.app/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 05 Apr 2022 18:33:24 GMT -->
+</html>
